@@ -7,7 +7,7 @@ spec:
   replicas: 3
   selector:
     matchLabels:
-      app: tutle
+      app: turtle
   template:
     metadata:
       labels:
